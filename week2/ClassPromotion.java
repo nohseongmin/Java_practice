@@ -1,6 +1,6 @@
 package week2;
 
-public class CkassPromotion {
+public class ClassPromotion {
 	public static void main(String[] args) {
 		//자동 타입 변환
 		byte bVal = 25;	//byte -> int
